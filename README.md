@@ -2,6 +2,8 @@
 
 it's a simple CRUD app with Next.js
 
+go check it !!!! https://prompt-ia-sand.vercel.app/
+
 
 ![Uploading Capture d’écran 2023-07-03 130202.png…]()
 
