@@ -1,3 +1,4 @@
+#promptIA
 it's a simple CRUD app with Next.js
 
 
