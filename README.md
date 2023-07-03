@@ -1,6 +1,8 @@
 # promptIA
 
 it's a simple CRUD app with Next.js
+
+
 ![Uploading Capture d’écran 2023-07-03 130202.png…]()
 
 
